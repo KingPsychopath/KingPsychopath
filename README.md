@@ -35,7 +35,7 @@ let kingPsy = {
     currentProject: "Enhancing my current skillset within DevOps whilst simultaneously looking for new opportunities.",
     jokes: "Why did was the tomato shy?",
     punchline: "Because it saw the Salad undressing!",
-  contact: "Apologies, I prefer to my contacts directly on my CV for privacy reasons"
+  contact: "Apologies, I prefer to place my contacts directly on my CV for privacy reasons"
 };
 ```
 
