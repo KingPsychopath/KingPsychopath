@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 let kingPsy = {
     pronouns: ["He", "Him", "They"],
     code: ["Javascript", "HTML", "Python", "Java", "GO"],
-    askMeAbout: ["DevOps", "Tech", "Cinematography", "Software Development", "Movies", "3D Modelling/Rigging"],
+    askMeAbout: ["DevOps", "Tech", "Cinematography", "Software Development", "Movies", "3D Modelling/Rigging", "Accessibility"],
     technologies: {
         frontEnd: {
             js: ["Vanilla", "jQuery"],
@@ -39,7 +39,7 @@ let kingPsy = {
 };
 ```
 
-![mademelaugh.png]
+![Funny Photo](mademelaugh.png)
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
