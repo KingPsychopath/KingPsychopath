@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 
 ```js
 let kingPsy = {
-    pronouns: "He" | "Him" | "They",
-    code: ["Javascript", "HTML", "Python", "Java", "C++"],
+    pronouns: ["He", "Him", "They"],
+    code: ["Javascript", "HTML", "Python", "Java", "GO"],
     askMeAbout: ["DevOps", "Tech", "Cinematography", "Software Development", "Movies", "3D Modelling/Rigging"],
     technologies: {
         frontEnd: {
@@ -62,7 +62,7 @@ Apologies, most of my repos are private! 😓
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-#### Hosting Services and Web Tools 🌐
+### Hosting Services and Web Tools 🌐
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
