@@ -33,8 +33,8 @@ let kingPsy = {
         mL: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas"]
     },
     currentProject: "Enhancing my current skillset within DevOps whilst simultaneously looking for new opportunities.",
-    jokes: "Why did was the tomato shy?",
-    punchline: "Because it saw the Salad undressing!",
+    jokes: "Why was the tomato shy?",
+    punchline: "Because it saw the Salad dressing!",
   contact: "Apologies, I prefer to place my contacts directly on my CV for privacy reasons"
 };
 ```
