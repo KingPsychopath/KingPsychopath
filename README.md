@@ -38,8 +38,9 @@ let kingPsy = {
   contact: "Apologies, I prefer to place my contacts directly on my CV for privacy reasons"
 };
 ```
-
-![Funny Photo](mademelaugh.png)
+<p align="center">
+  <img src="mademelaugh.png" alt="Funny Photo of a random guy on Youtube berating someone">
+</p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
