@@ -39,6 +39,8 @@ let kingPsy = {
 };
 ```
 
+![mademelaugh.png]
+
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
 Apologies, most of my repos are private! 😓
