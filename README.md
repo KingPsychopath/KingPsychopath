@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 ## A little bit about me...
 
-A brief summary of me:
 ```js
 let kingPsy = {
     pronouns: "He" | "Him" | "They",
