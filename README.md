@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 A brief summary of me:
 ```js
-let anmol = {
+let kingPsy = {
     pronouns: "He" | "Him" | "They",
     code: ["Javascript", "HTML", "Python", "Java", "C++"],
     askMeAbout: ["DevOps", "Tech", "Cinematography", "Software Development", "Movies", "3D Modelling/Rigging"],
