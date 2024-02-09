@@ -12,7 +12,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## A little bit about me...
+
+A brief summary of me:
+```js
+let anmol = {
+    pronouns: "He" | "Him" | "They",
+    code: ["Javascript", "HTML", "Python", "Java", "C++"],
+    askMeAbout: ["DevOps", "Tech", "Cinematography", "Software Development", "Movies", "3D Modelling/Rigging"],
+    technologies: {
+        frontEnd: {
+            js: ["Vanilla", "jQuery"],
+            css: ["CSS3"]
+        },
+        backEnd: {
+            python: ["flask"]
+            java : ["JSP"]
+        },
+        devOps: ["AWS"]
+        databases: ["Postgre", "MySQL", "SQLite"],
+        mL: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas"]
+    },
+    currentProject: "Enhancing my current skillset within DevOps whilst simultaneously looking for new opportunities.",
+    jokes: "Why did was the tomato shy?",
+    punchline: "Because it saw the Salad undressing!",
+  contact: "Apologies, I prefer to my contacts directly on my CV for privacy reasons"
+};
+```
+
 ## 🔨 Languages & Frameworks & Skills ⭐️:
+
 Apologies, most of my repos are private! 😓
 
 ### Frontend 💻
