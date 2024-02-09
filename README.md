@@ -39,7 +39,7 @@ let kingPsy = {
 };
 ```
 <p align="center">
-  <img src="mademelaugh.png" alt="Funny Photo of a random guy on Youtube berating someone">
+  <img src="mademelaugh2.png" alt="Funny Photo of a random guy on Youtube berating someone">
 </p>
 
 ## 🔨 Languages & Frameworks & Skills ⭐️:
