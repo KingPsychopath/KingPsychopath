@@ -30,7 +30,7 @@ let kingPsy = {
             js: ["node", "express"],
             go: [""]
         },
-        devOps: ["AWS"]
+        devOps: ["AWS"],
         databases: ["Postgre", "MySQL", "SQLite"],
         mL: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas"]
     },
