@@ -25,8 +25,10 @@ let kingPsy = {
             css: ["CSS3"]
         },
         backEnd: {
-            python: ["flask"]
-            java : ["JSP"]
+            python: ["flask"],
+            java : ["JSP"],
+            js: ["node", "express"],
+            go: [""]
         },
         devOps: ["AWS"]
         databases: ["Postgre", "MySQL", "SQLite"],
