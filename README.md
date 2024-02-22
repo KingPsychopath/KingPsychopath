@@ -33,9 +33,9 @@ let Owen = {
             go: [""]
         },
         env: ["Arch Linux"],
-        devOps: ["AWS", "Terraform", "Docker", "K8s", "Kafka", "Redis"],
-        cicd: ["GitHub Actions", "Jenkins", "Git"]
+        cicd: ["GitHub Actions", "Jenkins", "Git"],
         databases: ["Postgre", "MySQL", "SQLite", "Redis"],
+        devOps: ["AWS", "Terraform", "Docker", "K8s", "Kafka", "Redis"],
         mL: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas"]
     },
     currentProject: "Enhancing my current skillset within DevOps whilst simultaneously looking for new opportunities.",
