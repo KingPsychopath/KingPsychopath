@@ -17,21 +17,25 @@ Here are some ideas to get you started:
 ```js
 let Owen = {
     pronouns: ["He", "Him", "They"],
-    code: ["Javascript", "HTML", "Python", "Java", "GO"],
-    askMeAbout: ["DevOps", "Tech", "Cinematography", "Software Development", "Movies", "3D Modelling/Rigging", "Accessibility"],
+    lang: ["JavaScript", "Python", "Java", "GO"],
+    certs: ["CiSCO CCNA", "AWS Solution Architect...\n"],
+    askMeAbout: ["DevOps", "Cinematography", "Software Development", "System Design", "3D Modelling/Rigging", "Accessibility"],
     technologies: {
         frontEnd: {
             js: ["Vanilla", "jQuery"],
             css: ["CSS3"]
+            html: ["HTMX"]
         },
         backEnd: {
             python: ["flask"],
-            java : ["JSP"],
+            java : ["JSP", "Maven"],
             js: ["node", "express"],
             go: [""]
         },
-        devOps: ["AWS"],
-        databases: ["Postgre", "MySQL", "SQLite"],
+        env: ["Arch Linux"],
+        devOps: ["AWS", "Terraform", "Docker", "K8s", "Kafka", "Redis"],
+        cicd: ["GitHub Actions", "Jenkins", "Git"]
+        databases: ["Postgre", "MySQL", "SQLite", "Redis"],
         mL: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas"]
     },
     currentProject: "Enhancing my current skillset within DevOps whilst simultaneously looking for new opportunities.",
