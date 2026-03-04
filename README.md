@@ -15,34 +15,46 @@ Here are some ideas to get you started:
 ## A little bit about me...
 
 ```js
-let Owen = {
-    pronouns: ["He", "Him", "They"],
-    lang: ["JavaScript", "Python", "Java", "GO"],
-    certs: ["CiSCO CCNA", "AWS Solution Architect...\n"],
-    askMeAbout: ["DevOps", "Cinematography", "Software Development", "System Design", "3D Modelling/Rigging", "Accessibility"],
-    technologies: {
-        frontEnd: {
-            js: ["Vanilla", "jQuery"],
-            css: ["CSS3"]
-            html: ["HTMX"]
-        },
-        backEnd: {
-            python: ["flask"],
-            java : ["JSP", "Maven"],
-            js: ["node", "express"],
-            go: [""]
-        },
-        env: ["Arch Linux"],
-        cicd: ["GitHub Actions", "Jenkins", "Git"],
-        databases: ["Postgre", "MySQL", "SQLite", "Redis"],
-        devOps: ["AWS", "Terraform", "Docker", "K8s", "Kafka", "Redis"],
-        mL: ["Tensorflow", "Keras", "Sklearn", "open-cv", "matplotlib", "pandas"]
-    },
-    currentProject: "Enhancing my current skillset within DevOps whilst simultaneously looking for new opportunities.",
-    joke: "Why was the tomato shy?",
-    punchline: "Because it saw the Salad dressing!",
-  contact: "Apologies, I prefer to place my contacts directly on my CV for privacy reasons"
+const owen = {
+  pronouns: ["he/him", "they/them"],
+
+  currentFocus: {
+    languages: ["TypeScript", "JavaScript", "SQL"],
+    frameworks: ["Next.js", "React", "Tailwind CSS"],
+    backend: ["Node.js"],
+    dataAndValidation: ["Kysely", "Zod"],
+    auth: ["better-auth"],
+    testing: ["Vitest", "Testcontainers"],
+    databases: ["PostgreSQL", "Redis", "SQLite"],
+    cloudAndInfra: ["AWS (S3/EC2/ECS)", "Docker", "Vercel", "Cloudflare (R2)"],
+    observability: ["Sentry"],
+    analytics: ["PostHog"],
+    search: ["Algolia", "Meilisearch"],
+    tooling: ["pnpm", "ESLint", "Biome", "Prettier", "GitHub Actions"],
+  },
+
+  previousExperience: {
+    languages: ["Python", "Java", "Go"],
+    frameworks: ["Django", "Wagtail", "JSP"],
+    databases: ["MySQL", "MongoDB"],
+    infra: ["Terraform", "Kubernetes", "Google Cloud"],
+    ml: ["TensorFlow"],
+  },
+
+  certifications: ["Cisco CCNA", "AWS Solutions Architect"],
+
+  askMeAbout: ["Rolling my own auth and suffering", "Fete De La Musique", "My Blog"],
+
+  currentProject:
+    "Building and shipping three MVPs in parallel, fueled by deadlines and questionable caffeine levels.",
+
+  joke: "Why was the tomato shy?",
+  punchline: "Because it saw the salad dressing.",
+
+  contact:
+    "Contact details live on my CV. My inbox is invite-only by design.",
 };
+
 ```
 <p align="center">
   <img src="mademelaugh2.png" alt="Funny Photo of a random guy on Youtube berating someone">
