@@ -28,6 +28,7 @@ const owen = {
 ```
 <p align="center">
   <img src="mademelaugh2.png" alt="Funny Photo of a random guy on Youtube berating someone">
+  <img src="Screenshot 2024-09-02 at 21.18.31.png" alt="Funny photo 2">
 </p>
 
 
